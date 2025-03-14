@@ -1,0 +1,6 @@
+apiVersion: v2
+name: demo-pacman 
+description: Chart to deploy and configure pacman application 
+version: 0.1.1
+home: https://github.com/Yantra-Vinyasa/demo-pacman.git 
+
